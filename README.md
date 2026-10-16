@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!
+I'm a university teaching associate at the University of Sheffield. I am currently working on developing online notes for my courses. I also dabble in research, focusing on statistics in archaeology, with a focus on developing software for archaeologists and I'm currently contributing to two different software project, PolyChron and SPADE. 
 
 <!--
 **bryonymoody/bryonymoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
